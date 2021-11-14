@@ -3,7 +3,7 @@ const modelName = 'marca'
 
 const schema = mongoose.Schema({
     id : {
-        type: String,
+        type: Number,
         required: true
     },
     nome : {

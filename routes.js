@@ -7,4 +7,8 @@ module.exports = app => {
 
     app.route('/marcas')
     .post(marcaController.criarMarca)
+    .get(marcaController.listarMarcas)
+
+    app.get('/marcas/:id', marcaController.buscarMarcaPorID)    
+
 }

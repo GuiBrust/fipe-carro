@@ -13,9 +13,9 @@ const CarroService = require('../services/carro.service')
  *          type: object
  *          properties:
  *            id:
- *              type: string
+ *              type: number
  *            idmarca:
- *              type: string 
+ *              type: number 
  *            nome:
  *              type: string 
  *            preco:

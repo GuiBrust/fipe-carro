@@ -3,11 +3,11 @@ const modelName = 'carro'
 
 const schema = mongoose.Schema({
     id : {
-        type: String,
+        type: Number,
         required: true
     },
     idmarca : {
-        type: String,
+        type: Number,
         required: true
     },
     nome : {
