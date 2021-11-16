@@ -4,25 +4,22 @@ const modelMarca = require('../models/marca.model')
 
 async function cadastrarMarca(marca) {
     var cont = 0;
+    var flag = true;
     for (var i = 0; i < marca.length; i++) {
         var { id } = marca[i]
-
+        cont++;
         if (await modelMarca.model.findOne({ id })) {
-            throw new Error(`Já existe uma marca cadastrada com o id ${id}`)
-        }
-        else {
-            cont++
-            modelMarca.model.create(marca[i])
-                .then((marcaBD) => {
-
-                })
-                .catch((err) => {
-                    throw err
-                })
+            flag = false;
+            break;
         }
     }
+    if (flag) {
+        modelMarca.model.create(marca)
+        return `${cont} marca(s) criada(s)`
+    } else {
+        throw new Error(`Já existe uma marca cadastrada com o id ${id}`)
+    }
 
-    return `${cont} marca(s) criada(s)`
 }
 
 async function listarMarcas() {
@@ -32,13 +29,33 @@ async function listarMarcas() {
 async function buscarMarcaPorID(idMarca) {
 
     const marca = await modelMarca.model.findOne({ id: idMarca }, 'id nome');
-    console.log(marca);
     if (marca) {
-        return marca
+        const { id, nome } = marca
+        return {
+            id: id,
+            nome: nome
+        }
     } else {
-        throw new Error(`Nenhum produto encontrado com o código ${idMarca}`)
+        throw new Error(`Nenhuma marca encontrada com o código ${idMarca}`)
     }
 
 }
 
-module.exports = { cadastrarMarca, listarMarcas, buscarMarcaPorID }
+async function atualziarMarca(marca) {
+    const newMarca = await modelMarca.model.findOneAndUpdate({ id: marca.id }, { nome: marca.nome })
+    if (newMarca) {
+        return marca
+    } else {
+        throw new Error(`Nenhuma marca encontrada com o código ${marca.id}`)
+    }
+}
+
+async function excluirMarca(idMarca) {
+
+    const marca = await modelMarca.model.findOneAndRemove({ id: idMarca })
+    if (!marca) {
+        throw new Error(`Nenhuma marca encontrada com o código ${idMarca}`)
+    }
+}
+
+module.exports = { cadastrarMarca, listarMarcas, buscarMarcaPorID, atualziarMarca, excluirMarca }

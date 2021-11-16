@@ -37,7 +37,7 @@ const criarMarca = (req, res) => {
  * @swagger
  * /marcas:
  *  get:
- *    description: API para listar os produdos cadastrados no e-commerce
+ *    description: API para listar os marcas cadastradas
  *    responses:
  *      '200':
  *         description: Marcas encontradas  
@@ -92,4 +92,61 @@ const listarMarcas = (req, res) => {
     })
 };
 
-module.exports = { criarMarca, listarMarcas, buscarMarcaPorID }
+/**
+ * @swagger
+ * /marcas:
+ *  put:
+ *    description: API para atualizar marca
+ *    parameters:
+ *      - in: body
+ *        name: marca
+ *        description: atualizar marca.
+ *        schema:
+ *          type: object
+ *          properties:
+ *            id:
+ *              type: number
+ *            nome:
+ *              type: string 
+ *    responses:
+ *      '200':
+ *         description: Marca atualizada com sucesso  
+ *      '400':
+ *         description: Bad Request
+ */
+ const atualizarMarca = (req, res) => {
+    MarcaService.atualziarMarca(req.body)
+    .then((aluno) => {
+        res.status(200).json(aluno);
+    })
+    .catch((err) => {
+        res.status(400).json({ message: err.message })
+    })    
+}
+
+/**
+ * @swagger
+ * /marcas/{id}:
+ *  delete:
+ *    description: API para excluir marca
+ *    parameters:
+ *      - in: path
+ *        name: id
+ *        type: number
+ *    responses:
+ *      '200':
+ *         description: Marca excluida com sucesso  
+ *      '400':
+ *         description: Bad Request
+ */
+const excluirMarca = (req,res) => {
+    MarcaService.excluirMarca(req.params.id)
+    .then((marca) => {
+        res.status(200).json("Marca excluída com sucesso");
+    })
+    .catch((err) => {
+        res.status(400).json({ message: err.message })
+    })    
+}
+
+module.exports = { criarMarca, listarMarcas, buscarMarcaPorID, atualizarMarca, excluirMarca }

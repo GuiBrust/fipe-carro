@@ -37,5 +37,63 @@ const criarCarro = (req, res) => {
         })
 }
 
+/**
+ * @swagger
+ * /carros:
+ *  get:
+ *    description: API para listar os carros cadastrados
+ *    responses:
+ *      '200':
+ *         description: Carros encontradas  
+ *         schema:
+ *           type: array
+ *           items:
+ *             properties:
+ *               id:
+ *                 type: number
+ *               nome:
+ *                 type: string
+ *      '400':
+ *         description: Bad Request
+ */
+ const listarCarros = (req, res) => {
+    CarroService.listarCarros()
+        .then((data) => {
+            res.status(200).json({ data })
+        })
+        .catch((err) => {
+            res.status(400).json({ message: err.message })
+        })
+};
 
-module.exports = { criarCarro }
+/**
+ * @swagger
+ * /carros/{id}:
+ *  get:
+ *    description: buscar carro
+ *    parameters: 
+ *      - in: body
+ *        name: carro
+ *        description: Item para ser buscado
+ *        schema:
+ *          type: object
+ *          properties:
+ *            id:
+ *              type: number
+ *    responses:
+ *      '200':
+ *         description: Item  encontrado com sucesso  
+ *      '400':
+ *         description: Bad Request
+ */
+ const buscarCarroPorID = (req, res) => {
+    CarroService.buscarCarroPorID(req.params.id)
+    .then((data)=>{
+        res.status(200).json({data})
+    })
+    .catch((err) => {
+        res.status(400).json({ message: err.message })
+    })
+};
+
+module.exports = { criarCarro, listarCarros, buscarCarroPorID }
