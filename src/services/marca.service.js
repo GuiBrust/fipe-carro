@@ -13,6 +13,11 @@ async function cadastrarMarca(marca) {
             break;
         }
     }
+
+    if(cont==0){
+        cont++
+    }
+
     if (flag) {
         modelMarca.model.create(marca)
         return `${cont} marca(s) criada(s)`

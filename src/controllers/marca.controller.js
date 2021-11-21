@@ -116,8 +116,8 @@ const listarMarcas = (req, res) => {
  */
  const atualizarMarca = (req, res) => {
     MarcaService.atualziarMarca(req.body)
-    .then((aluno) => {
-        res.status(200).json(aluno);
+    .then((marca) => {
+        res.status(200).json(marca);
     })
     .catch((err) => {
         res.status(400).json({ message: err.message })

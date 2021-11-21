@@ -12,6 +12,9 @@ async function cadastrarCarro(carro) {
             break;
         }
     }
+    if(cont==0){
+        cont++
+    }
 
     if (flag) {
         modelCarro.model.create(carro)
@@ -23,12 +26,12 @@ async function cadastrarCarro(carro) {
 }
 
 async function listarCarros() {
-    return modelCarro.model.find({}, 'id nome');
+    return modelCarro.model.find({}, 'id nome preco');
 }
 
 async function buscarCarroPorID(idCarro) {
 
-    const carro = await modelCarro.model.findOne({ id: idCarro }, 'id nome');
+    const carro = await modelCarro.model.findOne({ id: idCarro }, 'id nome preco');
     if (carro) {
         return carro
     } else {
@@ -37,4 +40,21 @@ async function buscarCarroPorID(idCarro) {
 
 }
 
-module.exports = { cadastrarCarro, listarCarros, buscarCarroPorID }
+async function atualziarCarro(carro) {
+    const newCarro = await modelCarro.model.findOneAndUpdate({ id: carro.id }, { nome: carro.nome, preco: carro.preco })
+    if (newCarro) {
+        return carro
+    } else {
+        throw new Error(`Nenhuma carro encontrado com o código ${carro.id}`)
+    }
+}
+
+async function excluirCarro(idCarro) {
+
+    const carro = await modelCarro.model.findOneAndRemove({ id: idCarro })
+    if (!carro) {
+        throw new Error(`Nenhuma marca encontrada com o código ${idCarro}`)
+    }
+}
+
+module.exports = { cadastrarCarro, listarCarros, buscarCarroPorID, excluirCarro, atualziarCarro }

@@ -5,8 +5,10 @@ module.exports = app => {
     app.route('/carros')
     .post(carroController.criarCarro)
     .get(carroController.listarCarros)
+    .put(carroController.atualizarCarro)
 
     app.get('/carros/:id', carroController.buscarCarroPorID)
+    app.delete('/carros/:id', carroController.excluirCarro)
 
     app.route('/marcas')
     .post(marcaController.criarMarca)

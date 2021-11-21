@@ -96,4 +96,65 @@ const criarCarro = (req, res) => {
     })
 };
 
-module.exports = { criarCarro, listarCarros, buscarCarroPorID }
+/**
+ * @swagger
+ * /carros:
+ *  put:
+ *    description: API para atualizar carro
+ *    parameters:
+ *      - in: body
+ *        name: carro
+ *        description: atualizar carro.
+ *        schema:
+ *          type: object
+ *          properties:
+ *            id:
+ *              type: number
+ *            idmarca:
+ *              type: number 
+ *            nome:
+ *              type: string 
+ *            preco:
+ *              type: number 
+ *    responses:
+ *      '200':
+ *         description: Carro atualizado com sucesso  
+ *      '400':
+ *         description: Bad Request
+ */
+ const atualizarCarro = (req, res) => {
+    CarroService.atualziarCarro(req.body)
+    .then((carro) => {
+        res.status(200).json(carro);
+    })
+    .catch((err) => {
+        res.status(400).json({ message: err.message })
+    })    
+}
+
+/**
+ * @swagger
+ * /carros/{id}:
+ *  delete:
+ *    description: API para excluir carro
+ *    parameters:
+ *      - in: path
+ *        name: id
+ *        type: number
+ *    responses:
+ *      '200':
+ *         description: Carro excluido com sucesso  
+ *      '400':
+ *         description: Bad Request
+ */
+const excluirCarro = (req,res) => {
+    CarroService.excluirCarro(req.params.id)
+    .then((carro) => {
+        res.status(200).json("Carro excluído com sucesso");
+    })
+    .catch((err) => {
+        res.status(400).json({ message: err.message })
+    })    
+}
+
+module.exports = { criarCarro, listarCarros, buscarCarroPorID, atualizarCarro, excluirCarro }
