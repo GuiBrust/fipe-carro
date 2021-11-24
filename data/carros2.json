@@ -1,0 +1,3452 @@
+[
+    {
+      "id": 2124,
+      "idmarca": 32,
+      "nome": "TTS ROADSTER",
+      "preco": 19626.23
+    },
+    {
+      "id": 2125,
+      "idmarca": 32,
+      "nome": "R8 SPYDER",
+      "preco": 20964.31
+    },
+    {
+      "id": 2126,
+      "idmarca": 32,
+      "nome": "R8 GT",
+      "preco": 35128.98
+    },
+    {
+      "id": 2127,
+      "idmarca": 32,
+      "nome": "R8 GT SPYDER",
+      "preco": 80476.49
+    },
+    {
+      "id": 2129,
+      "idmarca": 10,
+      "nome": "F12",
+      "preco": 79686.84
+    },
+    {
+      "id": 2130,
+      "idmarca": 10,
+      "nome": "458 SPIDER",
+      "preco": 57601.08
+    },
+    {
+      "id": 2131,
+      "idmarca": 10,
+      "nome": "458 ITALIA",
+      "preco": 57981.98
+    },
+    {
+      "id": 2132,
+      "idmarca": 10,
+      "nome": "FF",
+      "preco": 30810.98
+    },
+    {
+      "id": 2133,
+      "idmarca": 10,
+      "nome": 599,
+      "preco": 95690.16
+    },
+    {
+      "id": 2134,
+      "idmarca": 10,
+      "nome": "SA",
+      "preco": 69562.2
+    },
+    {
+      "id": 2135,
+      "idmarca": 10,
+      "nome": "CHALLENGE",
+      "preco": 72628.4
+    },
+    {
+      "id": 2136,
+      "idmarca": 10,
+      "nome": "SUPERAMERICA",
+      "preco": 74843.47
+    },
+    {
+      "id": 2137,
+      "idmarca": 10,
+      "nome": "F430 SPIDER",
+      "preco": 48006.7
+    },
+    {
+      "id": 2138,
+      "idmarca": 10,
+      "nome": 430,
+      "preco": 27356.57
+    },
+    {
+      "id": 2139,
+      "idmarca": 10,
+      "nome": "612 SESSANTA",
+      "preco": 99392.67
+    },
+    {
+      "id": 2140,
+      "idmarca": 10,
+      "nome": "599 GTB",
+      "preco": 76728.16
+    },
+    {
+      "id": 2141,
+      "idmarca": 10,
+      "nome": "SCUDERIA SPIDER",
+      "preco": 14296.84
+    },
+    {
+      "id": 2142,
+      "idmarca": 10,
+      "nome": 512,
+      "preco": 25982.13
+    },
+    {
+      "id": 2143,
+      "idmarca": 10,
+      "nome": "456 GT",
+      "preco": 69853.48
+    },
+    {
+      "id": 2144,
+      "idmarca": 10,
+      "nome": "348 GTS",
+      "preco": 36052.26
+    },
+    {
+      "id": 2145,
+      "idmarca": 10,
+      "nome": "348 SPIDER",
+      "preco": 42540.94
+    },
+    {
+      "id": 2146,
+      "idmarca": 10,
+      "nome": "F355",
+      "preco": 57036.83
+    },
+    {
+      "id": 2147,
+      "idmarca": 10,
+      "nome": "F355 SPIDER",
+      "preco": 64549.97
+    },
+    {
+      "id": 2148,
+      "idmarca": 10,
+      "nome": "F50",
+      "preco": 81750.33
+    },
+    {
+      "id": 2149,
+      "idmarca": 10,
+      "nome": "355 SPIDER",
+      "preco": 14712.66
+    },
+    {
+      "id": 2150,
+      "idmarca": 10,
+      "nome": "360 MODENA",
+      "preco": 44870.98
+    },
+    {
+      "id": 2151,
+      "idmarca": 111,
+      "nome": "PAJERO FULL",
+      "preco": 60955.27
+    },
+    {
+      "id": 2152,
+      "idmarca": 111,
+      "nome": "PAJERO DAKAR",
+      "preco": 58489.07
+    },
+    {
+      "id": 2153,
+      "idmarca": 111,
+      "nome": "PAJERO TR4",
+      "preco": 14291.45
+    },
+    {
+      "id": 2154,
+      "idmarca": 111,
+      "nome": "LANCER SPORTBACK",
+      "preco": 84403.5
+    },
+    {
+      "id": 2155,
+      "idmarca": 111,
+      "nome": "LANCER EVOLUTION",
+      "preco": 85348.1
+    },
+    {
+      "id": 2156,
+      "idmarca": 111,
+      "nome": "L200 TRITON SAVANA",
+      "preco": 91275.03
+    },
+    {
+      "id": 2157,
+      "idmarca": 111,
+      "nome": "L200 TRITON",
+      "preco": 87382.81
+    },
+    {
+      "id": 2159,
+      "idmarca": 43,
+      "nome": "LIVINA X-GEAR",
+      "preco": 53311.94
+    },
+    {
+      "id": 2160,
+      "idmarca": 43,
+      "nome": "GRAND LIVINA",
+      "preco": 51441.5
+    },
+    {
+      "id": 2161,
+      "idmarca": 21,
+      "nome": "NEW ACTYON SPORTS",
+      "preco": 28031.23
+    },
+    {
+      "id": 2162,
+      "idmarca": 23,
+      "nome": "PRIUS",
+      "preco": 41599.17
+    },
+    {
+      "id": 2163,
+      "idmarca": 114,
+      "nome": "SPORT",
+      "preco": 46707.39
+    },
+    {
+      "id": 2164,
+      "idmarca": 114,
+      "nome": "MTS",
+      "preco": 20669.09
+    },
+    {
+      "id": 2165,
+      "idmarca": 114,
+      "nome": "SPIDER",
+      "preco": 29196.18
+    },
+    {
+      "id": 2166,
+      "idmarca": 114,
+      "nome": "KABRIO",
+      "preco": 19052.18
+    },
+    {
+      "id": 2167,
+      "idmarca": 114,
+      "nome": "SAGA",
+      "preco": 28117.52
+    },
+    {
+      "id": 2168,
+      "idmarca": 114,
+      "nome": "SAGA II",
+      "preco": 13882.38
+    },
+    {
+      "id": 2169,
+      "idmarca": 114,
+      "nome": 787,
+      "preco": 58017.08
+    },
+    {
+      "id": 2170,
+      "idmarca": 114,
+      "nome": "X11",
+      "preco": 19816.1
+    },
+    {
+      "id": 2171,
+      "idmarca": 295,
+      "nome": "GAIOLA",
+      "preco": 46626.74
+    },
+    {
+      "id": 2175,
+      "idmarca": 18,
+      "nome": "NITRO",
+      "preco": 51878.98
+    },
+    {
+      "id": 2176,
+      "idmarca": 18,
+      "nome": "CHALLENGER",
+      "preco": 85141.33
+    },
+    {
+      "id": 2177,
+      "idmarca": 18,
+      "nome": "DART",
+      "preco": 70045.19
+    },
+    {
+      "id": 2178,
+      "idmarca": 18,
+      "nome": "LE BARON",
+      "preco": 86360.43
+    },
+    {
+      "id": 2179,
+      "idmarca": 18,
+      "nome": "CORDOBA",
+      "preco": 42659.99
+    },
+    {
+      "id": 2180,
+      "idmarca": 18,
+      "nome": "CHARGER",
+      "preco": 66354.11
+    },
+    {
+      "id": 2181,
+      "idmarca": 19,
+      "nome": "WINDSOR",
+      "preco": 84561.93
+    },
+    {
+      "id": 2183,
+      "idmarca": 19,
+      "nome": "CROSSFIRE",
+      "preco": 91150.37
+    },
+    {
+      "id": 2184,
+      "idmarca": 19,
+      "nome": "CORDOBA",
+      "preco": 56605.76
+    },
+    {
+      "id": 2185,
+      "idmarca": 155,
+      "nome": "ESCALADE",
+      "preco": 72866.75
+    },
+    {
+      "id": 2186,
+      "idmarca": 41,
+      "nome": "RIVIERA",
+      "preco": 17180.82
+    },
+    {
+      "id": 2187,
+      "idmarca": 41,
+      "nome": "COUPE",
+      "preco": 94181.39
+    },
+    {
+      "id": 2188,
+      "idmarca": 41,
+      "nome": "CENTURY",
+      "preco": 26862.81
+    },
+    {
+      "id": 2189,
+      "idmarca": 41,
+      "nome": "APOLLO",
+      "preco": 49429.53
+    },
+    {
+      "id": 2190,
+      "idmarca": 41,
+      "nome": "CENTURION",
+      "preco": 53291.79
+    },
+    {
+      "id": 2191,
+      "idmarca": 41,
+      "nome": "EIGHT",
+      "preco": 19694.98
+    },
+    {
+      "id": 2192,
+      "idmarca": 41,
+      "nome": "ELECTRA",
+      "preco": 11150.84
+    },
+    {
+      "id": 2193,
+      "idmarca": 41,
+      "nome": "ESTATE WAGON",
+      "preco": 46724.43
+    },
+    {
+      "id": 2194,
+      "idmarca": 41,
+      "nome": "GRAN SPORT",
+      "preco": 78299.78
+    },
+    {
+      "id": 2195,
+      "idmarca": 41,
+      "nome": "GSX",
+      "preco": 51413
+    },
+    {
+      "id": 2196,
+      "idmarca": 41,
+      "nome": "INVICTA",
+      "preco": 22926.93
+    },
+    {
+      "id": 2197,
+      "idmarca": 41,
+      "nome": "LESABRE",
+      "preco": 20987.19
+    },
+    {
+      "id": 2198,
+      "idmarca": 41,
+      "nome": "LIMITED",
+      "preco": 62401.8
+    },
+    {
+      "id": 2199,
+      "idmarca": 41,
+      "nome": "PARK AVENUE",
+      "preco": 80245.44
+    },
+    {
+      "id": 2200,
+      "idmarca": 41,
+      "nome": "RAINIER",
+      "preco": 94385.49
+    },
+    {
+      "id": 2201,
+      "idmarca": 41,
+      "nome": "REATTA",
+      "preco": 75615.04
+    },
+    {
+      "id": 2202,
+      "idmarca": 41,
+      "nome": "REGAL",
+      "preco": 56879.96
+    },
+    {
+      "id": 2203,
+      "idmarca": 41,
+      "nome": "RENDEZVOUS",
+      "preco": 12058.78
+    },
+    {
+      "id": 2204,
+      "idmarca": 41,
+      "nome": "ROADMASTER",
+      "preco": 11125.58
+    },
+    {
+      "id": 2205,
+      "idmarca": 41,
+      "nome": "ROYAUM",
+      "preco": 46635.1
+    },
+    {
+      "id": 2206,
+      "idmarca": 41,
+      "nome": "SKYHAWK",
+      "preco": 99598.76
+    },
+    {
+      "id": 2207,
+      "idmarca": 41,
+      "nome": "SKYLARK",
+      "preco": 24807.18
+    },
+    {
+      "id": 2208,
+      "idmarca": 41,
+      "nome": "SOMERSET",
+      "preco": 88483.75
+    },
+    {
+      "id": 2209,
+      "idmarca": 41,
+      "nome": "SPECIAL",
+      "preco": 66340.87
+    },
+    {
+      "id": 2210,
+      "idmarca": 41,
+      "nome": "SPORT WAGON",
+      "preco": 87717.15
+    },
+    {
+      "id": 2211,
+      "idmarca": 41,
+      "nome": "SUPER",
+      "preco": 33166.24
+    },
+    {
+      "id": 2212,
+      "idmarca": 41,
+      "nome": "TERRAZA",
+      "preco": 82508.43
+    },
+    {
+      "id": 2213,
+      "idmarca": 41,
+      "nome": "WILDCAT",
+      "preco": 17147.35
+    },
+    {
+      "id": 2214,
+      "idmarca": 41,
+      "nome": "LACROSSE",
+      "preco": 23760.83
+    },
+    {
+      "id": 2215,
+      "idmarca": 41,
+      "nome": "ENCLAVE",
+      "preco": 17959.86
+    },
+    {
+      "id": 2217,
+      "idmarca": 41,
+      "nome": "GL8",
+      "preco": 34343.56
+    },
+    {
+      "id": 2218,
+      "idmarca": 41,
+      "nome": "HRV",
+      "preco": 10772.94
+    },
+    {
+      "id": 2219,
+      "idmarca": 41,
+      "nome": "LUCERNE",
+      "preco": 87147.23
+    },
+    {
+      "id": 2230,
+      "idmarca": 13,
+      "nome": "SIERRA",
+      "preco": 37133.32
+    },
+    {
+      "id": 2231,
+      "idmarca": 51,
+      "nome": "BROUGHAM",
+      "preco": 55392.29
+    },
+    {
+      "id": 2232,
+      "idmarca": 51,
+      "nome": "CHAIRMAN",
+      "preco": 86224.82
+    },
+    {
+      "id": 2233,
+      "idmarca": 51,
+      "nome": "DAMAS",
+      "preco": 67015.56
+    },
+    {
+      "id": 2234,
+      "idmarca": 51,
+      "nome": "GENTRA",
+      "preco": 14801.25
+    },
+    {
+      "id": 2235,
+      "idmarca": 51,
+      "nome": "MAEPSY",
+      "preco": 72047.49
+    },
+    {
+      "id": 2236,
+      "idmarca": 51,
+      "nome": "ISTANA",
+      "preco": 63746.19
+    },
+    {
+      "id": 2237,
+      "idmarca": 51,
+      "nome": "KALOS",
+      "preco": 73786.66
+    },
+    {
+      "id": 2238,
+      "idmarca": 51,
+      "nome": "KORANDO",
+      "preco": 34987.02
+    },
+    {
+      "id": 2239,
+      "idmarca": 51,
+      "nome": "LACETTI",
+      "preco": 63004.84
+    },
+    {
+      "id": 2240,
+      "idmarca": 51,
+      "nome": "LEMANS",
+      "preco": 20878.42
+    },
+    {
+      "id": 2242,
+      "idmarca": 51,
+      "nome": "MATIZ",
+      "preco": 36261.85
+    },
+    {
+      "id": 2243,
+      "idmarca": 51,
+      "nome": "MUSSO",
+      "preco": 47070.42
+    },
+    {
+      "id": 2244,
+      "idmarca": 51,
+      "nome": "NEXIA",
+      "preco": 29214.68
+    },
+    {
+      "id": 2245,
+      "idmarca": 51,
+      "nome": "REZZO",
+      "preco": 61096.88
+    },
+    {
+      "id": 2246,
+      "idmarca": 51,
+      "nome": "ROYALE PRINCE",
+      "preco": 38267.64
+    },
+    {
+      "id": 2247,
+      "idmarca": 51,
+      "nome": "ROYALE SALON",
+      "preco": 10673.43
+    },
+    {
+      "id": 2248,
+      "idmarca": 51,
+      "nome": "STATESMAN",
+      "preco": 76382.76
+    },
+    {
+      "id": 2249,
+      "idmarca": 51,
+      "nome": "TOSCA",
+      "preco": 55099.25
+    },
+    {
+      "id": 2250,
+      "idmarca": 51,
+      "nome": "WINSTORM",
+      "preco": 43862.51
+    },
+    {
+      "id": 2252,
+      "idmarca": 158,
+      "nome": "RURAL",
+      "preco": 98739.36
+    },
+    {
+      "id": 2253,
+      "idmarca": 18,
+      "nome": "D100",
+      "preco": 62595.71
+    },
+    {
+      "id": 2259,
+      "idmarca": 4,
+      "nome": 170,
+      "preco": 89756.32
+    },
+    {
+      "id": 2261,
+      "idmarca": 18,
+      "nome": "CUSTOM ROYAL",
+      "preco": 42944.64
+    },
+    {
+      "id": 2262,
+      "idmarca": 1,
+      "nome": "CLUB COUPE",
+      "preco": 48898.18
+    },
+    {
+      "id": 2263,
+      "idmarca": 18,
+      "nome": "MAGNUM",
+      "preco": 39126.01
+    },
+    {
+      "id": 2264,
+      "idmarca": 1,
+      "nome": "GMC 100",
+      "preco": 99979.33
+    },
+    {
+      "id": 2265,
+      "idmarca": 69,
+      "nome": "SOLSTICE",
+      "preco": 39733.88
+    },
+    {
+      "id": 2266,
+      "idmarca": 158,
+      "nome": "ITAMARATY",
+      "preco": 74861.97
+    },
+    {
+      "id": 2267,
+      "idmarca": 86,
+      "nome": "MARK V",
+      "preco": 80761.66
+    },
+    {
+      "id": 2268,
+      "idmarca": 124,
+      "nome": "GT",
+      "preco": 54314.9
+    },
+    {
+      "id": 2269,
+      "idmarca": 145,
+      "nome": "CHAMPION",
+      "preco": 85048.78
+    },
+    {
+      "id": 2270,
+      "idmarca": 3,
+      "nome": "BALILLA",
+      "preco": 51556.29
+    },
+    {
+      "id": 2271,
+      "idmarca": 158,
+      "nome": "INTERLAGOS",
+      "preco": 63109.79
+    },
+    {
+      "id": 2272,
+      "idmarca": 17,
+      "nome": "X15",
+      "preco": 35947.41
+    },
+    {
+      "id": 2273,
+      "idmarca": 13,
+      "nome": "F-85",
+      "preco": 29559.1
+    },
+    {
+      "id": 2274,
+      "idmarca": 70,
+      "nome": "SPEEDSTER 356",
+      "preco": 29969.69
+    },
+    {
+      "id": 2275,
+      "idmarca": 88,
+      "nome": "TOPIC FURGAO",
+      "preco": 18239.22
+    },
+    {
+      "id": 2276,
+      "idmarca": 88,
+      "nome": "TOPIC ESCOLAR",
+      "preco": 76970.53
+    },
+    {
+      "id": 2279,
+      "idmarca": 4,
+      "nome": "300D",
+      "preco": 89266.62
+    },
+    {
+      "id": 2280,
+      "idmarca": 4,
+      "nome": "CLASSE TE",
+      "preco": 30290.71
+    },
+    {
+      "id": 2283,
+      "idmarca": 23,
+      "nome": "T-100",
+      "preco": 66755.56
+    },
+    {
+      "id": 2294,
+      "idmarca": 24,
+      "nome": "MEGANE SEDAN",
+      "preco": 55283.61
+    },
+    {
+      "id": 2295,
+      "idmarca": 32,
+      "nome": "A4 CABRIOLET",
+      "preco": 96351.62
+    },
+    {
+      "id": 2298,
+      "idmarca": 82,
+      "nome": "LINHA G",
+      "preco": 34802.55
+    },
+    {
+      "id": 2299,
+      "idmarca": 82,
+      "nome": "LINHA G COUPE",
+      "preco": 83943.25
+    },
+    {
+      "id": 2300,
+      "idmarca": 82,
+      "nome": "LINHA G CONVERSIVEL",
+      "preco": 80275.51
+    },
+    {
+      "id": 2301,
+      "idmarca": 82,
+      "nome": "LINHA M",
+      "preco": 58220.01
+    },
+    {
+      "id": 2302,
+      "idmarca": 82,
+      "nome": "LINHA EX",
+      "preco": 95218.3
+    },
+    {
+      "id": 2303,
+      "idmarca": 82,
+      "nome": "LINHA JX",
+      "preco": 59962.98
+    },
+    {
+      "id": 2304,
+      "idmarca": 82,
+      "nome": "LINHA QX",
+      "preco": 45577.08
+    },
+    {
+      "id": 2305,
+      "idmarca": 86,
+      "nome": "MODELOS XF",
+      "preco": 85095.48
+    },
+    {
+      "id": 2306,
+      "idmarca": 86,
+      "nome": "F-TYPE",
+      "preco": 72664.94
+    },
+    {
+      "id": 2307,
+      "idmarca": 86,
+      "nome": "MARK VII",
+      "preco": 39258.3
+    },
+    {
+      "id": 2308,
+      "idmarca": 86,
+      "nome": "MARK VIII",
+      "preco": 74595.98
+    },
+    {
+      "id": 2309,
+      "idmarca": 86,
+      "nome": "MARK IX",
+      "preco": 71823.5
+    },
+    {
+      "id": 2310,
+      "idmarca": 86,
+      "nome": "MARK X",
+      "preco": 92362.57
+    },
+    {
+      "id": 2311,
+      "idmarca": 86,
+      "nome": "E-TYPE",
+      "preco": 52304.13
+    },
+    {
+      "id": 2312,
+      "idmarca": 86,
+      "nome": "C-TYPE",
+      "preco": 87290.67
+    },
+    {
+      "id": 2313,
+      "idmarca": 86,
+      "nome": "D-TYPE",
+      "preco": 92688.94
+    },
+    {
+      "id": 2314,
+      "idmarca": 86,
+      "nome": "MARK I",
+      "preco": 19195.07
+    },
+    {
+      "id": 2315,
+      "idmarca": 86,
+      "nome": "MARK II",
+      "preco": 93620.94
+    },
+    {
+      "id": 2346,
+      "idmarca": 124,
+      "nome": "GT4R",
+      "preco": 84697.92
+    },
+    {
+      "id": 2347,
+      "idmarca": 124,
+      "nome": "SPYDER",
+      "preco": 28995.78
+    },
+    {
+      "id": 2348,
+      "idmarca": 124,
+      "nome": "GTI",
+      "preco": 34832.14
+    },
+    {
+      "id": 2349,
+      "idmarca": 124,
+      "nome": "AM1",
+      "preco": 23581.56
+    },
+    {
+      "id": 2350,
+      "idmarca": 124,
+      "nome": "AM2",
+      "preco": 21096.77
+    },
+    {
+      "id": 2351,
+      "idmarca": 124,
+      "nome": "AM3",
+      "preco": 47918
+    },
+    {
+      "id": 2352,
+      "idmarca": 124,
+      "nome": "AM4",
+      "preco": 51837.18
+    },
+    {
+      "id": 2353,
+      "idmarca": 124,
+      "nome": "AMV",
+      "preco": 87954.04
+    },
+    {
+      "id": 2377,
+      "idmarca": 7,
+      "nome": "ACTY",
+      "preco": 22373.79
+    },
+    {
+      "id": 2378,
+      "idmarca": 7,
+      "nome": "AIRWAVE",
+      "preco": 37701.97
+    },
+    {
+      "id": 2379,
+      "idmarca": 7,
+      "nome": "ASCOT",
+      "preco": 65284
+    },
+    {
+      "id": 2380,
+      "idmarca": 7,
+      "nome": "BALLADE",
+      "preco": 58351.89
+    },
+    {
+      "id": 2381,
+      "idmarca": 7,
+      "nome": "BEAT",
+      "preco": 23148.39
+    },
+    {
+      "id": 2382,
+      "idmarca": 7,
+      "nome": "CR-X",
+      "preco": 18686.47
+    },
+    {
+      "id": 2383,
+      "idmarca": 7,
+      "nome": "CONCERTO",
+      "preco": 57805.54
+    },
+    {
+      "id": 2384,
+      "idmarca": 7,
+      "nome": "CR-Z",
+      "preco": 48804.92
+    },
+    {
+      "id": 2385,
+      "idmarca": 7,
+      "nome": "DOMANI",
+      "preco": 14523.94
+    },
+    {
+      "id": 2386,
+      "idmarca": 7,
+      "nome": "EDIX",
+      "preco": 41802.98
+    },
+    {
+      "id": 2387,
+      "idmarca": 7,
+      "nome": "ELEMENT",
+      "preco": 59710.49
+    },
+    {
+      "id": 2388,
+      "idmarca": 7,
+      "nome": "EV PLUS",
+      "preco": 48516.34
+    },
+    {
+      "id": 2389,
+      "idmarca": 7,
+      "nome": "FCX",
+      "preco": 98949.27
+    },
+    {
+      "id": 2390,
+      "idmarca": 7,
+      "nome": "FR-V",
+      "preco": 26228.9
+    },
+    {
+      "id": 2392,
+      "idmarca": 7,
+      "nome": "HR-V",
+      "preco": 51829.4
+    },
+    {
+      "id": 2393,
+      "idmarca": 7,
+      "nome": "HSC",
+      "preco": 88538.81
+    },
+    {
+      "id": 2394,
+      "idmarca": 7,
+      "nome": "INSIGHT",
+      "preco": 98606.72
+    },
+    {
+      "id": 2396,
+      "idmarca": 25,
+      "nome": "TL",
+      "preco": 85688.84
+    },
+    {
+      "id": 2397,
+      "idmarca": 7,
+      "nome": "LIFE DUNK",
+      "preco": 85089.46
+    },
+    {
+      "id": 2398,
+      "idmarca": 7,
+      "nome": "LOGO",
+      "preco": 10579.91
+    },
+    {
+      "id": 2399,
+      "idmarca": 7,
+      "nome": "MOBILIO",
+      "preco": 28987.54
+    },
+    {
+      "id": 2400,
+      "idmarca": 25,
+      "nome": "MDX",
+      "preco": 58533.32
+    },
+    {
+      "id": 2401,
+      "idmarca": 7,
+      "nome": "ORTHIA",
+      "preco": 37467.83
+    },
+    {
+      "id": 2402,
+      "idmarca": 7,
+      "nome": "PARTNER VAN",
+      "preco": 79439.04
+    },
+    {
+      "id": 2403,
+      "idmarca": 7,
+      "nome": "PILOT",
+      "preco": 19871.43
+    },
+    {
+      "id": 2404,
+      "idmarca": 7,
+      "nome": "RIDGELINE",
+      "preco": 30172.31
+    },
+    {
+      "id": 2405,
+      "idmarca": 7,
+      "nome": "S2000",
+      "preco": 65936.09
+    },
+    {
+      "id": 2406,
+      "idmarca": 7,
+      "nome": "S600",
+      "preco": 16680.67
+    },
+    {
+      "id": 2407,
+      "idmarca": 7,
+      "nome": "S500",
+      "preco": 61796.62
+    },
+    {
+      "id": 2408,
+      "idmarca": 7,
+      "nome": "S800",
+      "preco": 97699.94
+    },
+    {
+      "id": 2409,
+      "idmarca": 7,
+      "nome": "STEPWGN",
+      "preco": 18283.61
+    },
+    {
+      "id": 2410,
+      "idmarca": 7,
+      "nome": "STREAM",
+      "preco": 92065.79
+    },
+    {
+      "id": 2411,
+      "idmarca": 7,
+      "nome": "THATS",
+      "preco": 67288.3
+    },
+    {
+      "id": 2412,
+      "idmarca": 7,
+      "nome": "VAMOZ",
+      "preco": 75619.5
+    },
+    {
+      "id": 2413,
+      "idmarca": 7,
+      "nome": "Z",
+      "preco": 97296.07
+    },
+    {
+      "id": 2414,
+      "idmarca": 7,
+      "nome": "ZEST",
+      "preco": 20990.73
+    },
+    {
+      "id": 2441,
+      "idmarca": 59,
+      "nome": "AERIO",
+      "preco": 62607.55
+    },
+    {
+      "id": 2442,
+      "idmarca": 59,
+      "nome": "ALTO",
+      "preco": 88462.71
+    },
+    {
+      "id": 2443,
+      "idmarca": 59,
+      "nome": "APV",
+      "preco": 77665.12
+    },
+    {
+      "id": 2444,
+      "idmarca": 59,
+      "nome": "KEI",
+      "preco": 90724.79
+    },
+    {
+      "id": 2445,
+      "idmarca": 59,
+      "nome": "LAPIN",
+      "preco": 37589.23
+    },
+    {
+      "id": 2446,
+      "idmarca": 59,
+      "nome": "MR WAGON",
+      "preco": 50793.87
+    },
+    {
+      "id": 2447,
+      "idmarca": 59,
+      "nome": "XL-7",
+      "preco": 74218.57
+    },
+    {
+      "id": 2448,
+      "idmarca": 59,
+      "nome": "VERONA",
+      "preco": 65590.54
+    },
+    {
+      "id": 2477,
+      "idmarca": 158,
+      "nome": "JEEP CJ",
+      "preco": 68256.86
+    },
+    {
+      "id": 2479,
+      "idmarca": 22,
+      "nome": "306 CABRIOLET",
+      "preco": 67600.11
+    },
+    {
+      "id": 2484,
+      "idmarca": 57,
+      "nome": "BELCAR",
+      "preco": 18585.45
+    },
+    {
+      "id": 2485,
+      "idmarca": 90,
+      "nome": "M715",
+      "preco": 11397.49
+    },
+    {
+      "id": 2492,
+      "idmarca": 22,
+      "nome": "407 SW",
+      "preco": 99333.72
+    },
+    {
+      "id": 2493,
+      "idmarca": 22,
+      "nome": "307 CC",
+      "preco": 38390.46
+    },
+    {
+      "id": 2499,
+      "idmarca": 1,
+      "nome": "STYLELINE",
+      "preco": 30248.65
+    },
+    {
+      "id": 2500,
+      "idmarca": 13,
+      "nome": "ANGLIA",
+      "preco": 22417.91
+    },
+    {
+      "id": 2508,
+      "idmarca": 26,
+      "nome": "GT2",
+      "preco": 91513.96
+    },
+    {
+      "id": 2509,
+      "idmarca": 1,
+      "nome": "YUKON",
+      "preco": 66461.78
+    },
+    {
+      "id": 2510,
+      "idmarca": 54,
+      "nome": "SPORTSMAN",
+      "preco": 57087.7
+    },
+    {
+      "id": 2514,
+      "idmarca": 24,
+      "nome": "21 NEVADA",
+      "preco": 19984.48
+    },
+    {
+      "id": 2515,
+      "idmarca": 11,
+      "nome": "VEYRON",
+      "preco": 61413.78
+    },
+    {
+      "id": 2516,
+      "idmarca": 10,
+      "nome": "ENZO",
+      "preco": 70736.59
+    },
+    {
+      "id": 2517,
+      "idmarca": 22,
+      "nome": "306 SW",
+      "preco": 79977.73
+    },
+    {
+      "id": 2528,
+      "idmarca": 28,
+      "nome": "TI 80",
+      "preco": 30393.61
+    },
+    {
+      "id": 2532,
+      "idmarca": 70,
+      "nome": "SPYDER 550",
+      "preco": 10492.15
+    },
+    {
+      "id": 2533,
+      "idmarca": 10,
+      "nome": "380 GTB",
+      "preco": 51337.55
+    },
+    {
+      "id": 2534,
+      "idmarca": 149,
+      "nome": "T-5",
+      "preco": 35785.43
+    },
+    {
+      "id": 2536,
+      "idmarca": 18,
+      "nome": "KINGSWAY",
+      "preco": 51213.43
+    },
+    {
+      "id": 2537,
+      "idmarca": 1,
+      "nome": "SSR",
+      "preco": 52912.06
+    },
+    {
+      "id": 2540,
+      "idmarca": 1,
+      "nome": "IMPALA",
+      "preco": 71635.88
+    },
+    {
+      "id": 2541,
+      "idmarca": 22,
+      "nome": 208,
+      "preco": 53191.35
+    },
+    {
+      "id": 2542,
+      "idmarca": 1,
+      "nome": "GRAND BLAZER",
+      "preco": 19324.69
+    },
+    {
+      "id": 2555,
+      "idmarca": 53,
+      "nome": "100 SERIES",
+      "preco": 41307.36
+    },
+    {
+      "id": 2558,
+      "idmarca": 53,
+      "nome": "200 SERIES",
+      "preco": 98895.47
+    },
+    {
+      "id": 2559,
+      "idmarca": 53,
+      "nome": "300 SERIES",
+      "preco": 46167.57
+    },
+    {
+      "id": 2561,
+      "idmarca": 53,
+      "nome": 66,
+      "preco": 91063.37
+    },
+    {
+      "id": 2562,
+      "idmarca": 53,
+      "nome": "700 SERIES",
+      "preco": 63727.17
+    },
+    {
+      "id": 2563,
+      "idmarca": 53,
+      "nome": "AMAZON",
+      "preco": 72831.9
+    },
+    {
+      "id": 2564,
+      "idmarca": 53,
+      "nome": "C303",
+      "preco": 10653.42
+    },
+    {
+      "id": 2566,
+      "idmarca": 53,
+      "nome": "DUETT",
+      "preco": 64687.51
+    },
+    {
+      "id": 2567,
+      "idmarca": 53,
+      "nome": "L3314",
+      "preco": 64648.56
+    },
+    {
+      "id": 2568,
+      "idmarca": 53,
+      "nome": "OV 4",
+      "preco": 36415.32
+    },
+    {
+      "id": 2569,
+      "idmarca": 53,
+      "nome": "P1800",
+      "preco": 60996.64
+    },
+    {
+      "id": 2570,
+      "idmarca": 53,
+      "nome": "SUGGA",
+      "preco": 78056.76
+    },
+    {
+      "id": 2571,
+      "idmarca": 13,
+      "nome": "TT",
+      "preco": 47880.25
+    },
+    {
+      "id": 2572,
+      "idmarca": 5,
+      "nome": "ONCE",
+      "preco": 36068.24
+    },
+    {
+      "id": 2573,
+      "idmarca": 13,
+      "nome": "DE LUXE",
+      "preco": 64065.73
+    },
+    {
+      "id": 2574,
+      "idmarca": 13,
+      "nome": "CUSTOM",
+      "preco": 99891.71
+    },
+    {
+      "id": 2575,
+      "idmarca": 13,
+      "nome": "T-BUCKET",
+      "preco": 59424
+    },
+    {
+      "id": 2576,
+      "idmarca": 17,
+      "nome": "G15",
+      "preco": 49044.34
+    },
+    {
+      "id": 2588,
+      "idmarca": 111,
+      "nome": "PAJERO FULL 3D",
+      "preco": 70589.41
+    },
+    {
+      "id": 2589,
+      "idmarca": 111,
+      "nome": "PAJERO SPORT",
+      "preco": 31270.85
+    },
+    {
+      "id": 2590,
+      "idmarca": 36,
+      "nome": "120 CABRIO",
+      "preco": 63916.91
+    },
+    {
+      "id": 2591,
+      "idmarca": 36,
+      "nome": "320 TOURING",
+      "preco": 74221.39
+    },
+    {
+      "id": 2592,
+      "idmarca": 36,
+      "nome": "330 CABRIO",
+      "preco": 15242.01
+    },
+    {
+      "id": 2593,
+      "idmarca": 36,
+      "nome": "SERIE 5 TOURING",
+      "preco": 55126.95
+    },
+    {
+      "id": 2594,
+      "idmarca": 36,
+      "nome": "SERIE 6 CABRIO",
+      "preco": 49147.36
+    },
+    {
+      "id": 2595,
+      "idmarca": 36,
+      "nome": "SERIE M CONVERSIVEL",
+      "preco": 88801.4
+    },
+    {
+      "id": 2596,
+      "idmarca": 36,
+      "nome": "M5 TOURING",
+      "preco": 79269.13
+    },
+    {
+      "id": 2597,
+      "idmarca": 36,
+      "nome": "SERIE Z ROADSTER",
+      "preco": 45420.08
+    },
+    {
+      "id": 2599,
+      "idmarca": 13,
+      "nome": "KA SPORT",
+      "preco": 39318.53
+    },
+    {
+      "id": 2600,
+      "idmarca": 2,
+      "nome": "CC",
+      "preco": 87483.05
+    },
+    {
+      "id": 2605,
+      "idmarca": 16,
+      "nome": "CERATO KOUP",
+      "preco": 72035.55
+    },
+    {
+      "id": 2607,
+      "idmarca": 1,
+      "nome": "ASTRO",
+      "preco": 74393.74
+    },
+    {
+      "id": 2608,
+      "idmarca": 23,
+      "nome": "COROLLA XRS",
+      "preco": 59227.8
+    },
+    {
+      "id": 2609,
+      "idmarca": 23,
+      "nome": "ETIOS SEDAN",
+      "preco": 82556.62
+    },
+    {
+      "id": 2611,
+      "idmarca": 13,
+      "nome": "FREESTYLE",
+      "preco": 60778.22
+    },
+    {
+      "id": 2612,
+      "idmarca": 110,
+      "nome": "COUGAR",
+      "preco": 85860.81
+    },
+    {
+      "id": 2615,
+      "idmarca": 102,
+      "nome": "XUV 500",
+      "preco": 28337.08
+    },
+    {
+      "id": 2618,
+      "idmarca": 102,
+      "nome": "XYLO",
+      "preco": 13068.51
+    },
+    {
+      "id": 2619,
+      "idmarca": 102,
+      "nome": "BOLERO",
+      "preco": 51059.35
+    },
+    {
+      "id": 2620,
+      "idmarca": 102,
+      "nome": "THAR",
+      "preco": 34820.11
+    },
+    {
+      "id": 2621,
+      "idmarca": 102,
+      "nome": "AXE",
+      "preco": 65827.96
+    },
+    {
+      "id": 2622,
+      "idmarca": 102,
+      "nome": "LEGEND",
+      "preco": 78712.62
+    },
+    {
+      "id": 2623,
+      "idmarca": 87,
+      "nome": "CJ3",
+      "preco": 83940.77
+    },
+    {
+      "id": 2624,
+      "idmarca": 102,
+      "nome": "ARMADA",
+      "preco": 78870.24
+    },
+    {
+      "id": 2625,
+      "idmarca": 102,
+      "nome": "CHASSI",
+      "preco": 55167.43
+    },
+    {
+      "id": 2626,
+      "idmarca": 102,
+      "nome": "SCORPIO PICK-UP",
+      "preco": 19427.55
+    },
+    {
+      "id": 2627,
+      "idmarca": 6,
+      "nome": "STAR TRUCK",
+      "preco": 79738.03
+    },
+    {
+      "id": 2628,
+      "idmarca": 6,
+      "nome": "STAR",
+      "preco": 44865.57
+    },
+    {
+      "id": 2629,
+      "idmarca": 6,
+      "nome": "STAR VAN CARGO",
+      "preco": 29454.09
+    },
+    {
+      "id": 2630,
+      "idmarca": 6,
+      "nome": "STAR VAN PASSAGEIROS",
+      "preco": 34814.17
+    },
+    {
+      "id": 2632,
+      "idmarca": 141,
+      "nome": "ALVORADA",
+      "preco": 32363.5
+    },
+    {
+      "id": 2633,
+      "idmarca": 141,
+      "nome": "CHAMBORD",
+      "preco": 95050.89
+    },
+    {
+      "id": 2637,
+      "idmarca": 141,
+      "nome": "PROFISSIONAL",
+      "preco": 96871.21
+    },
+    {
+      "id": 2639,
+      "idmarca": 141,
+      "nome": "VEDETTE",
+      "preco": 88434.43
+    },
+    {
+      "id": 2640,
+      "idmarca": 141,
+      "nome": "ARONDE",
+      "preco": 72730.35
+    },
+    {
+      "id": 2641,
+      "idmarca": 141,
+      "nome": "1200S",
+      "preco": 20513.98
+    },
+    {
+      "id": 2642,
+      "idmarca": 141,
+      "nome": 1000,
+      "preco": 38942.28
+    },
+    {
+      "id": 2645,
+      "idmarca": 14,
+      "nome": "HB20X",
+      "preco": 50812.78
+    },
+    {
+      "id": 2646,
+      "idmarca": 14,
+      "nome": "HB20S",
+      "preco": 74464.74
+    },
+    {
+      "id": 2648,
+      "idmarca": 1,
+      "nome": "MONZA",
+      "preco": 86212.2
+    },
+    {
+      "id": 2649,
+      "idmarca": 1,
+      "nome": "CHEVETTE",
+      "preco": 62966.41
+    },
+    {
+      "id": 2650,
+      "idmarca": 98,
+      "nome": "X60",
+      "preco": 71533.62
+    },
+    {
+      "id": 2651,
+      "idmarca": 1,
+      "nome": "TRAX",
+      "preco": 50261.66
+    },
+    {
+      "id": 2652,
+      "idmarca": 36,
+      "nome": 118,
+      "preco": 61056.87
+    },
+    {
+      "id": 2653,
+      "idmarca": 36,
+      "nome": 120,
+      "preco": 74004.82
+    },
+    {
+      "id": 2654,
+      "idmarca": 36,
+      "nome": 130,
+      "preco": 75212.64
+    },
+    {
+      "id": 2655,
+      "idmarca": 36,
+      "nome": "BAVARIA",
+      "preco": 92619.98
+    },
+    {
+      "id": 2656,
+      "idmarca": 36,
+      "nome": "C-2800",
+      "preco": 98580.98
+    },
+    {
+      "id": 2657,
+      "idmarca": 36,
+      "nome": 318,
+      "preco": 11096.59
+    },
+    {
+      "id": 2658,
+      "idmarca": 36,
+      "nome": 320,
+      "preco": 68317.79
+    },
+    {
+      "id": 2659,
+      "idmarca": 36,
+      "nome": "318 CABRIO",
+      "preco": 58405.09
+    },
+    {
+      "id": 2660,
+      "idmarca": 36,
+      "nome": "325 CABRIO",
+      "preco": 38568.76
+    },
+    {
+      "id": 2661,
+      "idmarca": 36,
+      "nome": 530,
+      "preco": 87000.84
+    },
+    {
+      "id": 2662,
+      "idmarca": 36,
+      "nome": 540,
+      "preco": 23824.75
+    },
+    {
+      "id": 2663,
+      "idmarca": 36,
+      "nome": 550,
+      "preco": 82713.5
+    },
+    {
+      "id": 2664,
+      "idmarca": 36,
+      "nome": 740,
+      "preco": 17691.99
+    },
+    {
+      "id": 2665,
+      "idmarca": 36,
+      "nome": 750,
+      "preco": 50693.97
+    },
+    {
+      "id": 2666,
+      "idmarca": 36,
+      "nome": 760,
+      "preco": 98514.59
+    },
+    {
+      "id": 2675,
+      "idmarca": 341,
+      "nome": "MATRIX 4X4",
+      "preco": 93850.69
+    },
+    {
+      "id": 2694,
+      "idmarca": 132,
+      "nome": "A7",
+      "preco": 77676.13
+    },
+    {
+      "id": 2695,
+      "idmarca": 132,
+      "nome": "A9",
+      "preco": 47095.3
+    },
+    {
+      "id": 2696,
+      "idmarca": 132,
+      "nome": "A9 CARGO",
+      "preco": 13355.54
+    },
+    {
+      "id": 2697,
+      "idmarca": 132,
+      "nome": "T20",
+      "preco": 47884.87
+    },
+    {
+      "id": 2698,
+      "idmarca": 132,
+      "nome": "T20 BAU",
+      "preco": 82810.63
+    },
+    {
+      "id": 2699,
+      "idmarca": 132,
+      "nome": "T22",
+      "preco": 39050.25
+    },
+    {
+      "id": 2704,
+      "idmarca": 64,
+      "nome": "SUPER 90 COUPE",
+      "preco": 40858.74
+    },
+    {
+      "id": 2705,
+      "idmarca": 17,
+      "nome": "X20",
+      "preco": 98201.55
+    },
+    {
+      "id": 2706,
+      "idmarca": 17,
+      "nome": "ITAIPU",
+      "preco": 24721.38
+    },
+    {
+      "id": 2707,
+      "idmarca": 17,
+      "nome": "G800",
+      "preco": 62470.25
+    },
+    {
+      "id": 2708,
+      "idmarca": 17,
+      "nome": "XEF",
+      "preco": 74556.67
+    },
+    {
+      "id": 2709,
+      "idmarca": 17,
+      "nome": "MOTOMACHINE",
+      "preco": 92759.41
+    },
+    {
+      "id": 2710,
+      "idmarca": 17,
+      "nome": "BUGATO",
+      "preco": 11238.73
+    },
+    {
+      "id": 2711,
+      "idmarca": 17,
+      "nome": "QT",
+      "preco": 96709.4
+    },
+    {
+      "id": 2716,
+      "idmarca": 57,
+      "nome": "CAICARA",
+      "preco": 24826.24
+    },
+    {
+      "id": 2717,
+      "idmarca": 57,
+      "nome": "CARCARA",
+      "preco": 19335.98
+    },
+    {
+      "id": 2718,
+      "idmarca": 57,
+      "nome": "FISSORE",
+      "preco": 77923.71
+    },
+    {
+      "id": 2719,
+      "idmarca": 57,
+      "nome": "MALZONI",
+      "preco": 88752.62
+    },
+    {
+      "id": 2720,
+      "idmarca": 57,
+      "nome": "VEMAGUET",
+      "preco": 82162.54
+    },
+    {
+      "id": 2727,
+      "idmarca": 5,
+      "nome": "C4 LOUNGE",
+      "preco": 96951.81
+    },
+    {
+      "id": 2728,
+      "idmarca": 108,
+      "nome": "CX-7",
+      "preco": 85355.64
+    },
+    {
+      "id": 2729,
+      "idmarca": 147,
+      "nome": "TR",
+      "preco": 21596.4
+    },
+    {
+      "id": 2730,
+      "idmarca": 147,
+      "nome": "LUCENA",
+      "preco": 43706.84
+    },
+    {
+      "id": 2731,
+      "idmarca": 147,
+      "nome": "SEVETSE",
+      "preco": 49874.79
+    },
+    {
+      "id": 2732,
+      "idmarca": 147,
+      "nome": "RAGGE",
+      "preco": 92638.04
+    },
+    {
+      "id": 2733,
+      "idmarca": 53,
+      "nome": "C70",
+      "preco": 14322.41
+    },
+    {
+      "id": 2734,
+      "idmarca": 53,
+      "nome": "C30",
+      "preco": 31342.14
+    },
+    {
+      "id": 2735,
+      "idmarca": 53,
+      "nome": 544,
+      "preco": 79131.83
+    },
+    {
+      "id": 2736,
+      "idmarca": 53,
+      "nome": "S40",
+      "preco": 17745.64
+    },
+    {
+      "id": 2737,
+      "idmarca": 53,
+      "nome": "S60",
+      "preco": 23795.99
+    },
+    {
+      "id": 2738,
+      "idmarca": 53,
+      "nome": "S70",
+      "preco": 99991.81
+    },
+    {
+      "id": 2739,
+      "idmarca": 53,
+      "nome": "S80",
+      "preco": 95292.66
+    },
+    {
+      "id": 2740,
+      "idmarca": 53,
+      "nome": "V40",
+      "preco": 48313.93
+    },
+    {
+      "id": 2741,
+      "idmarca": 53,
+      "nome": "V50",
+      "preco": 35665.53
+    },
+    {
+      "id": 2742,
+      "idmarca": 53,
+      "nome": "V60",
+      "preco": 92891.67
+    },
+    {
+      "id": 2743,
+      "idmarca": 53,
+      "nome": "V70",
+      "preco": 45441.22
+    },
+    {
+      "id": 2744,
+      "idmarca": 53,
+      "nome": "S90",
+      "preco": 72263.6
+    },
+    {
+      "id": 2745,
+      "idmarca": 53,
+      "nome": "XC60",
+      "preco": 95395.54
+    },
+    {
+      "id": 2746,
+      "idmarca": 53,
+      "nome": "XC70",
+      "preco": 56553.12
+    },
+    {
+      "id": 2747,
+      "idmarca": 53,
+      "nome": "XC90",
+      "preco": 66712.85
+    },
+    {
+      "id": 2748,
+      "idmarca": 53,
+      "nome": "P1900",
+      "preco": 46255.81
+    },
+    {
+      "id": 2749,
+      "idmarca": 53,
+      "nome": "PV36",
+      "preco": 88435.18
+    },
+    {
+      "id": 2750,
+      "idmarca": 53,
+      "nome": "PV444",
+      "preco": 81894.6
+    },
+    {
+      "id": 2751,
+      "idmarca": 53,
+      "nome": "PV544",
+      "preco": 28550.86
+    },
+    {
+      "id": 2752,
+      "idmarca": 53,
+      "nome": "PV51",
+      "preco": 31390.22
+    },
+    {
+      "id": 2753,
+      "idmarca": 53,
+      "nome": "PV654",
+      "preco": 32305.95
+    },
+    {
+      "id": 2754,
+      "idmarca": 53,
+      "nome": "C50",
+      "preco": 99591.03
+    },
+    {
+      "id": 2755,
+      "idmarca": 4,
+      "nome": 190,
+      "preco": 95924.12
+    },
+    {
+      "id": 2756,
+      "idmarca": 4,
+      "nome": "CLASSE CLA",
+      "preco": 29786.18
+    },
+    {
+      "id": 2757,
+      "idmarca": 4,
+      "nome": "CLASSE V",
+      "preco": 92385.94
+    },
+    {
+      "id": 2758,
+      "idmarca": 4,
+      "nome": "VANEO",
+      "preco": 67075.71
+    },
+    {
+      "id": 2759,
+      "idmarca": 4,
+      "nome": "CITAN",
+      "preco": 56147.31
+    },
+    {
+      "id": 2760,
+      "idmarca": 4,
+      "nome": "VARIO",
+      "preco": 82728.59
+    },
+    {
+      "id": 2761,
+      "idmarca": 4,
+      "nome": "CLASSE S CLASSICO",
+      "preco": 77475.02
+    },
+    {
+      "id": 2809,
+      "idmarca": 15,
+      "nome": "J3S",
+      "preco": 41826.19
+    },
+    {
+      "id": 2810,
+      "idmarca": 345,
+      "nome": "PICK-UP",
+      "preco": 62659.04
+    },
+    {
+      "id": 2811,
+      "idmarca": 345,
+      "nome": "VAN",
+      "preco": 70913.35
+    },
+    {
+      "id": 2823,
+      "idmarca": 5,
+      "nome": "C3 SOLARIS",
+      "preco": 90844.62
+    },
+    {
+      "id": 2824,
+      "idmarca": 5,
+      "nome": "C3 XTR",
+      "preco": 90575.65
+    },
+    {
+      "id": 2825,
+      "idmarca": 5,
+      "nome": "C4 SOLARIS",
+      "preco": 80137.61
+    },
+    {
+      "id": 2826,
+      "idmarca": 5,
+      "nome": "C5 BREAK/TOURER",
+      "preco": 69993.45
+    },
+    {
+      "id": 2827,
+      "idmarca": 5,
+      "nome": "XSARA BREAK",
+      "preco": 17406.74
+    },
+    {
+      "id": 2828,
+      "idmarca": 5,
+      "nome": "XSARA VTS",
+      "preco": 36913.3
+    },
+    {
+      "id": 2829,
+      "idmarca": 5,
+      "nome": "XANTIA BREAK",
+      "preco": 96672.72
+    },
+    {
+      "id": 2830,
+      "idmarca": 5,
+      "nome": "XM BREAK",
+      "preco": 20105.17
+    },
+    {
+      "id": 2831,
+      "idmarca": 5,
+      "nome": "C15",
+      "preco": 17881.89
+    },
+    {
+      "id": 2832,
+      "idmarca": 5,
+      "nome": "NEMO",
+      "preco": 50372.58
+    },
+    {
+      "id": 2833,
+      "idmarca": 5,
+      "nome": "VISA",
+      "preco": 10361.63
+    },
+    {
+      "id": 2834,
+      "idmarca": 5,
+      "nome": "C1",
+      "preco": 56344.9
+    },
+    {
+      "id": 2835,
+      "idmarca": 5,
+      "nome": "C2",
+      "preco": 76401.28
+    },
+    {
+      "id": 2836,
+      "idmarca": 5,
+      "nome": "C3 PLURIEL",
+      "preco": 78552.44
+    },
+    {
+      "id": 2837,
+      "idmarca": 5,
+      "nome": "DS4",
+      "preco": 49660.96
+    },
+    {
+      "id": 2838,
+      "idmarca": 5,
+      "nome": "DS5",
+      "preco": 38270.58
+    },
+    {
+      "id": 2839,
+      "idmarca": 5,
+      "nome": "JUMPY",
+      "preco": 18848.81
+    },
+    {
+      "id": 2840,
+      "idmarca": 5,
+      "nome": "C-CROSSER",
+      "preco": 10077.52
+    },
+    {
+      "id": 2841,
+      "idmarca": 5,
+      "nome": "C35",
+      "preco": 19100.95
+    },
+    {
+      "id": 2842,
+      "idmarca": 5,
+      "nome": "C25",
+      "preco": 40417.98
+    },
+    {
+      "id": 2843,
+      "idmarca": 5,
+      "nome": "CX",
+      "preco": 45429.07
+    },
+    {
+      "id": 2844,
+      "idmarca": 5,
+      "nome": "CX BREAK",
+      "preco": 90274.92
+    },
+    {
+      "id": 2845,
+      "idmarca": 5,
+      "nome": "AXEL",
+      "preco": 94557.01
+    },
+    {
+      "id": 2846,
+      "idmarca": 5,
+      "nome": "DYANE",
+      "preco": 42550.16
+    },
+    {
+      "id": 2847,
+      "idmarca": 5,
+      "nome": "GS/GSA",
+      "preco": 22442.26
+    },
+    {
+      "id": 2848,
+      "idmarca": 5,
+      "nome": "GS/GSA BREAK",
+      "preco": 53329.82
+    },
+    {
+      "id": 2849,
+      "idmarca": 5,
+      "nome": "MEHARI",
+      "preco": 45173.18
+    },
+    {
+      "id": 2850,
+      "idmarca": 5,
+      "nome": "SAXO",
+      "preco": 17899.79
+    },
+    {
+      "id": 2851,
+      "idmarca": 5,
+      "nome": "SM",
+      "preco": 35053.56
+    },
+    {
+      "id": 2852,
+      "idmarca": 5,
+      "nome": "ELYSEE",
+      "preco": 94380.19
+    },
+    {
+      "id": 2853,
+      "idmarca": 24,
+      "nome": "MASTER MINIBUS",
+      "preco": 42245.91
+    },
+    {
+      "id": 2854,
+      "idmarca": 47,
+      "nome": "CELER",
+      "preco": 80017.57
+    },
+    {
+      "id": 2855,
+      "idmarca": 47,
+      "nome": "CELER SEDAN",
+      "preco": 74963.33
+    },
+    {
+      "id": 2856,
+      "idmarca": 47,
+      "nome": "CIELO SEDAN",
+      "preco": 82519.55
+    },
+    {
+      "id": 2857,
+      "idmarca": 32,
+      "nome": "A1 SPORTBACK",
+      "preco": 58901.04
+    },
+    {
+      "id": 2858,
+      "idmarca": 32,
+      "nome": "A1 QUATTRO",
+      "preco": 74005.54
+    },
+    {
+      "id": 2859,
+      "idmarca": 32,
+      "nome": "A3 SPORTBACK",
+      "preco": 54316.39
+    },
+    {
+      "id": 2860,
+      "idmarca": 32,
+      "nome": "RS4 AVANT",
+      "preco": 61000.22
+    },
+    {
+      "id": 2861,
+      "idmarca": 32,
+      "nome": "A8L W12",
+      "preco": 28235.48
+    },
+    {
+      "id": 2862,
+      "idmarca": 32,
+      "nome": "R8 V10",
+      "preco": 65893.29
+    },
+    {
+      "id": 2863,
+      "idmarca": 13,
+      "nome": "RANGER CD",
+      "preco": 89932.85
+    },
+    {
+      "id": 2864,
+      "idmarca": 15,
+      "nome": "T140",
+      "preco": 74063.09
+    },
+    {
+      "id": 2865,
+      "idmarca": 36,
+      "nome": "X1",
+      "preco": 61745.07
+    },
+    {
+      "id": 2866,
+      "idmarca": 36,
+      "nome": "X3",
+      "preco": 34705.37
+    },
+    {
+      "id": 2867,
+      "idmarca": 36,
+      "nome": "X5",
+      "preco": 49999.19
+    },
+    {
+      "id": 2868,
+      "idmarca": 36,
+      "nome": "X6",
+      "preco": 50768.07
+    },
+    {
+      "id": 2869,
+      "idmarca": 36,
+      "nome": 840,
+      "preco": 24323.05
+    },
+    {
+      "id": 2870,
+      "idmarca": 36,
+      "nome": 850,
+      "preco": 45372.29
+    },
+    {
+      "id": 2871,
+      "idmarca": 36,
+      "nome": 645,
+      "preco": 28728.02
+    },
+    {
+      "id": 2872,
+      "idmarca": 36,
+      "nome": 650,
+      "preco": 64958.75
+    },
+    {
+      "id": 2874,
+      "idmarca": 7,
+      "nome": "FIT TWIST",
+      "preco": 76889.15
+    },
+    {
+      "id": 2876,
+      "idmarca": 346,
+      "nome": "MP4",
+      "preco": 27053.22
+    },
+    {
+      "id": 2877,
+      "idmarca": 346,
+      "nome": "F1",
+      "preco": 83176.02
+    },
+    {
+      "id": 2878,
+      "idmarca": 13,
+      "nome": "MONDEO SW",
+      "preco": 27067.06
+    },
+    {
+      "id": 2879,
+      "idmarca": 13,
+      "nome": "ESCORT SEDAN",
+      "preco": 62796.96
+    },
+    {
+      "id": 2880,
+      "idmarca": 13,
+      "nome": "ESCORT CONVERSIVEL",
+      "preco": 90667.04
+    },
+    {
+      "id": 2881,
+      "idmarca": 108,
+      "nome": "MX-6",
+      "preco": 20404.14
+    },
+    {
+      "id": 2884,
+      "idmarca": 1,
+      "nome": "CORISCO",
+      "preco": 67848.76
+    },
+    {
+      "id": 2885,
+      "idmarca": 1,
+      "nome": "CHEVELLE",
+      "preco": 49567.77
+    },
+    {
+      "id": 2886,
+      "idmarca": 13,
+      "nome": "EXCURSION",
+      "preco": 81469.5
+    },
+    {
+      "id": 2887,
+      "idmarca": 2,
+      "nome": "TOURAN",
+      "preco": 72470.5
+    },
+    {
+      "id": 2890,
+      "idmarca": 13,
+      "nome": "F-10000",
+      "preco": 86337.34
+    },
+    {
+      "id": 2891,
+      "idmarca": 22,
+      "nome": "HOGGAR ESCAPADE",
+      "preco": 23211.94
+    },
+    {
+      "id": 2901,
+      "idmarca": 13,
+      "nome": "PHAETON",
+      "preco": 47367.66
+    },
+    {
+      "id": 2913,
+      "idmarca": 2,
+      "nome": "TRANSPORTER",
+      "preco": 41365.68
+    },
+    {
+      "id": 2914,
+      "idmarca": 16,
+      "nome": "GRAND BESTA",
+      "preco": 44314.4
+    },
+    {
+      "id": 2915,
+      "idmarca": 43,
+      "nome": "200SX",
+      "preco": 48424.25
+    },
+    {
+      "id": 2916,
+      "idmarca": 43,
+      "nome": "240SX",
+      "preco": 81329
+    },
+    {
+      "id": 2921,
+      "idmarca": 19,
+      "nome": "300M",
+      "preco": 85931.77
+    },
+    {
+      "id": 2922,
+      "idmarca": 19,
+      "nome": "300C TOURING",
+      "preco": 77416.1
+    },
+    {
+      "id": 2928,
+      "idmarca": 13,
+      "nome": "TORINO",
+      "preco": 14277.43
+    },
+    {
+      "id": 2931,
+      "idmarca": 1,
+      "nome": "VENTURE",
+      "preco": 86720.61
+    },
+    {
+      "id": 2932,
+      "idmarca": 1,
+      "nome": "FLEETLINE",
+      "preco": 58050.59
+    },
+    {
+      "id": 2933,
+      "idmarca": 1,
+      "nome": "FLEETMASTER",
+      "preco": 88630.6
+    },
+    {
+      "id": 2934,
+      "idmarca": 1,
+      "nome": "DELUXE",
+      "preco": 11688.88
+    },
+    {
+      "id": 2936,
+      "idmarca": 13,
+      "nome": "ESCORT XR3",
+      "preco": 37705.73
+    },
+    {
+      "id": 2937,
+      "idmarca": 1,
+      "nome": "MASTER",
+      "preco": 25943.2
+    },
+    {
+      "id": 2938,
+      "idmarca": 120,
+      "nome": "TORONADO",
+      "preco": 33388.3
+    },
+    {
+      "id": 2939,
+      "idmarca": 120,
+      "nome": "SIX",
+      "preco": 65897.79
+    },
+    {
+      "id": 2940,
+      "idmarca": 120,
+      "nome": "EIGHT",
+      "preco": 72927.46
+    },
+    {
+      "id": 2941,
+      "idmarca": 120,
+      "nome": "DELUXE",
+      "preco": 28292.01
+    },
+    {
+      "id": 2942,
+      "idmarca": 120,
+      "nome": "SERIES 60",
+      "preco": 96706.79
+    },
+    {
+      "id": 2943,
+      "idmarca": 120,
+      "nome": "SERIES 70",
+      "preco": 14466.06
+    },
+    {
+      "id": 2944,
+      "idmarca": 120,
+      "nome": "SERIES 80",
+      "preco": 59626.17
+    },
+    {
+      "id": 2945,
+      "idmarca": 120,
+      "nome": "SERIES 90",
+      "preco": 94078.15
+    },
+    {
+      "id": 2946,
+      "idmarca": 120,
+      "nome": "STARFIRE",
+      "preco": 71924.27
+    },
+    {
+      "id": 2947,
+      "idmarca": 120,
+      "nome": 442,
+      "preco": 28903.62
+    },
+    {
+      "id": 2948,
+      "idmarca": 120,
+      "nome": "CUTLASS",
+      "preco": 97065.48
+    },
+    {
+      "id": 2949,
+      "idmarca": 120,
+      "nome": "CUTLASS SUPREME",
+      "preco": 79521.44
+    },
+    {
+      "id": 2950,
+      "idmarca": 120,
+      "nome": "CUTLASS SALON",
+      "preco": 17440.44
+    },
+    {
+      "id": 2951,
+      "idmarca": 120,
+      "nome": "CUTLASS CALAIS",
+      "preco": 75919.54
+    },
+    {
+      "id": 2952,
+      "idmarca": 120,
+      "nome": "CUTLASS CIERA",
+      "preco": 42682.42
+    },
+    {
+      "id": 2953,
+      "idmarca": 120,
+      "nome": "CUSTOM CRUISER",
+      "preco": 25316.43
+    },
+    {
+      "id": 2954,
+      "idmarca": 120,
+      "nome": "VISTA CRUISER",
+      "preco": 62580.79
+    },
+    {
+      "id": 2955,
+      "idmarca": 120,
+      "nome": "F-85",
+      "preco": 62513.17
+    },
+    {
+      "id": 2957,
+      "idmarca": 120,
+      "nome": "FIRENZA",
+      "preco": 51731.38
+    },
+    {
+      "id": 2958,
+      "idmarca": 120,
+      "nome": "ACHIEVA",
+      "preco": 34477.31
+    },
+    {
+      "id": 2959,
+      "idmarca": 120,
+      "nome": "ALERO",
+      "preco": 96209.91
+    },
+    {
+      "id": 2960,
+      "idmarca": 120,
+      "nome": "AURORA",
+      "preco": 77644.73
+    },
+    {
+      "id": 2961,
+      "idmarca": 120,
+      "nome": "BRAVADA",
+      "preco": 21356.99
+    },
+    {
+      "id": 2962,
+      "idmarca": 120,
+      "nome": "INTRIGUE",
+      "preco": 53536.15
+    },
+    {
+      "id": 2963,
+      "idmarca": 120,
+      "nome": "SILHOUETTE",
+      "preco": 12042.29
+    },
+    {
+      "id": 2972,
+      "idmarca": 123,
+      "nome": "SUPERBIRD",
+      "preco": 42062.91
+    },
+    {
+      "id": 2973,
+      "idmarca": 123,
+      "nome": "FURY",
+      "preco": 13009.97
+    },
+    {
+      "id": 2974,
+      "idmarca": 123,
+      "nome": "SPECIAL",
+      "preco": 87583.21
+    },
+    {
+      "id": 2975,
+      "idmarca": 123,
+      "nome": "PROWLER",
+      "preco": 92733.04
+    },
+    {
+      "id": 2976,
+      "idmarca": 123,
+      "nome": "TRAIL DUSTER",
+      "preco": 27017.3
+    },
+    {
+      "id": 2977,
+      "idmarca": 123,
+      "nome": "VOYAGER",
+      "preco": 82910.73
+    },
+    {
+      "id": 2978,
+      "idmarca": 123,
+      "nome": "SCAMP",
+      "preco": 22694.27
+    },
+    {
+      "id": 2979,
+      "idmarca": 123,
+      "nome": "ARROW",
+      "preco": 70778.7
+    },
+    {
+      "id": 2980,
+      "idmarca": 123,
+      "nome": "PT50",
+      "preco": 22046.33
+    },
+    {
+      "id": 2981,
+      "idmarca": 123,
+      "nome": "PT57",
+      "preco": 68869.18
+    },
+    {
+      "id": 2982,
+      "idmarca": 123,
+      "nome": "PT81",
+      "preco": 47659.65
+    },
+    {
+      "id": 2983,
+      "idmarca": 123,
+      "nome": "PT105",
+      "preco": 78018.29
+    },
+    {
+      "id": 2984,
+      "idmarca": 123,
+      "nome": "PT125",
+      "preco": 21806.97
+    },
+    {
+      "id": 2985,
+      "idmarca": 123,
+      "nome": "EXPRESS",
+      "preco": 23185.25
+    },
+    {
+      "id": 2986,
+      "idmarca": 123,
+      "nome": "VOYAGER EXPRESSO",
+      "preco": 10610.6
+    },
+    {
+      "id": 2987,
+      "idmarca": 123,
+      "nome": "NEON",
+      "preco": 77096.3
+    },
+    {
+      "id": 2988,
+      "idmarca": 123,
+      "nome": "LASER",
+      "preco": 42000.03
+    },
+    {
+      "id": 2989,
+      "idmarca": 123,
+      "nome": "CARAVELLE",
+      "preco": 55582.95
+    },
+    {
+      "id": 2990,
+      "idmarca": 123,
+      "nome": "STATION WAGON",
+      "preco": 75133.59
+    },
+    {
+      "id": 2991,
+      "idmarca": 123,
+      "nome": "MODEL Q",
+      "preco": 37634.79
+    },
+    {
+      "id": 2992,
+      "idmarca": 123,
+      "nome": "MODEL P6",
+      "preco": 14845.64
+    },
+    {
+      "id": 2993,
+      "idmarca": 31,
+      "nome": "DB9 COUPE",
+      "preco": 27171.85
+    },
+    {
+      "id": 2994,
+      "idmarca": 31,
+      "nome": "DB9 VOLANTE",
+      "preco": 94768.87
+    },
+    {
+      "id": 2995,
+      "idmarca": 31,
+      "nome": "VIRAGE COUPE",
+      "preco": 17058.62
+    },
+    {
+      "id": 2996,
+      "idmarca": 31,
+      "nome": "RAPIDE S",
+      "preco": 15276.12
+    },
+    {
+      "id": 2997,
+      "idmarca": 31,
+      "nome": "V12 VANTAGE",
+      "preco": 46283.82
+    },
+    {
+      "id": 2998,
+      "idmarca": 31,
+      "nome": "V8 VANTAGE COUPE",
+      "preco": 14409.62
+    },
+    {
+      "id": 2999,
+      "idmarca": 31,
+      "nome": "V8 VANTAGE ROADSTER",
+      "preco": 31027.86
+    },
+    {
+      "id": 3000,
+      "idmarca": 31,
+      "nome": "V8 VANTAGE S COUPE",
+      "preco": 40038.91
+    },
+    {
+      "id": 3001,
+      "idmarca": 31,
+      "nome": "V8 VANTAGE S ROADSTER",
+      "preco": 79697.99
+    },
+    {
+      "id": 3002,
+      "idmarca": 31,
+      "nome": "VANQUISH COUPE",
+      "preco": 62049.04
+    },
+    {
+      "id": 3003,
+      "idmarca": 31,
+      "nome": "VANQUISH VOLANTE",
+      "preco": 11253.38
+    },
+    {
+      "id": 3004,
+      "idmarca": 31,
+      "nome": "V12 ZAGATO",
+      "preco": 13240.15
+    },
+    {
+      "id": 3005,
+      "idmarca": 31,
+      "nome": "DB5",
+      "preco": 28246.43
+    },
+    {
+      "id": 3007,
+      "idmarca": 31,
+      "nome": "DBS",
+      "preco": 24567.03
+    },
+    {
+      "id": 3008,
+      "idmarca": 31,
+      "nome": "DBS VOLANTE",
+      "preco": 69106.75
+    },
+    {
+      "id": 3009,
+      "idmarca": 31,
+      "nome": "CYGNET",
+      "preco": 53510.01
+    },
+    {
+      "id": 3010,
+      "idmarca": 31,
+      "nome": "ONE-77",
+      "preco": 64083.24
+    },
+    {
+      "id": 3011,
+      "idmarca": 31,
+      "nome": "DBR9",
+      "preco": 66805.11
+    },
+    {
+      "id": 3013,
+      "idmarca": 36,
+      "nome": "M3",
+      "preco": 81882.49
+    },
+    {
+      "id": 3014,
+      "idmarca": 36,
+      "nome": "M5",
+      "preco": 19933.37
+    },
+    {
+      "id": 3015,
+      "idmarca": 36,
+      "nome": "M6",
+      "preco": 18003.73
+    },
+    {
+      "id": 3016,
+      "idmarca": 36,
+      "nome": "X6 M",
+      "preco": 14046.68
+    },
+    {
+      "id": 3017,
+      "idmarca": 113,
+      "nome": "CABRIO",
+      "preco": 64830.89
+    },
+    {
+      "id": 3018,
+      "idmarca": 113,
+      "nome": "COUPE",
+      "preco": 96165.34
+    },
+    {
+      "id": 3019,
+      "idmarca": 113,
+      "nome": "ROADSTER",
+      "preco": 99116.22
+    },
+    {
+      "id": 3020,
+      "idmarca": 113,
+      "nome": "COUNTRYMAN",
+      "preco": 24202.16
+    },
+    {
+      "id": 3021,
+      "idmarca": 113,
+      "nome": "PACEMAN",
+      "preco": 66151.36
+    },
+    {
+      "id": 3022,
+      "idmarca": 113,
+      "nome": "JOHN COOPER WORKS",
+      "preco": 54738.64
+    },
+    {
+      "id": 3023,
+      "idmarca": 122,
+      "nome": "ZONDA",
+      "preco": 85897.44
+    },
+    {
+      "id": 3024,
+      "idmarca": 8,
+      "nome": "NEW XV",
+      "preco": 87491.86
+    },
+    {
+      "id": 3025,
+      "idmarca": 8,
+      "nome": "IMPREZA WRX HATCH",
+      "preco": 54021.53
+    },
+    {
+      "id": 3026,
+      "idmarca": 8,
+      "nome": "IMPREZA WRX STI HATCH",
+      "preco": 66470.42
+    },
+    {
+      "id": 3027,
+      "idmarca": 8,
+      "nome": "IMPREZA WRX STI SEDAN",
+      "preco": 57203.84
+    },
+    {
+      "id": 3028,
+      "idmarca": 8,
+      "nome": "IMPREZA WRX SEDAN",
+      "preco": 48226.92
+    },
+    {
+      "id": 3030,
+      "idmarca": 23,
+      "nome": "ETIOS CROSS",
+      "preco": 64434.32
+    },
+    {
+      "id": 3031,
+      "idmarca": 12,
+      "nome": "HURACAN",
+      "preco": 53088.89
+    },
+    {
+      "id": 3032,
+      "idmarca": 2,
+      "nome": "UP",
+      "preco": 54164.12
+    },
+    {
+      "id": 3080,
+      "idmarca": 195,
+      "nome": "EXPLORER",
+      "preco": 95407.05
+    },
+    {
+      "id": 4964,
+      "idmarca": 142,
+      "nome": "FORTWO CABRIO",
+      "preco": 96124.99
+    },
+    {
+      "id": 4969,
+      "idmarca": 26,
+      "nome": "GT",
+      "preco": 34725.65
+    },
+    {
+      "id": 4970,
+      "idmarca": 26,
+      "nome": "GTL",
+      "preco": 19044.78
+    },
+    {
+      "id": 4971,
+      "idmarca": 26,
+      "nome": "GTM",
+      "preco": 36285.88
+    },
+    {
+      "id": 4972,
+      "idmarca": 26,
+      "nome": "C2",
+      "preco": 34192.51
+    },
+    {
+      "id": 4973,
+      "idmarca": 26,
+      "nome": "CRX",
+      "preco": 87757.3
+    },
+    {
+      "id": 4974,
+      "idmarca": 26,
+      "nome": "AC 2000",
+      "preco": 95158.8
+    },
+    {
+      "id": 4975,
+      "idmarca": 99,
+      "nome": "AVIATOR",
+      "preco": 89798.88
+    },
+    {
+      "id": 4976,
+      "idmarca": 99,
+      "nome": "BLACKWOOD",
+      "preco": 97154.37
+    },
+    {
+      "id": 4977,
+      "idmarca": 99,
+      "nome": "CAPRI",
+      "preco": 72630.62
+    },
+    {
+      "id": 4978,
+      "idmarca": 99,
+      "nome": "CONTINENTAL",
+      "preco": 22678.47
+    },
+    {
+      "id": 4979,
+      "idmarca": 99,
+      "nome": "LS",
+      "preco": 34804.98
+    },
+    {
+      "id": 4980,
+      "idmarca": 99,
+      "nome": "MARK",
+      "preco": 43120.98
+    },
+    {
+      "id": 4981,
+      "idmarca": 99,
+      "nome": "MARK LT",
+      "preco": 95768.1
+    },
+    {
+      "id": 4982,
+      "idmarca": 99,
+      "nome": "MKR",
+      "preco": 58817.29
+    },
+    {
+      "id": 4983,
+      "idmarca": 99,
+      "nome": "MKS",
+      "preco": 91463.07
+    },
+    {
+      "id": 4984,
+      "idmarca": 99,
+      "nome": "MKX",
+      "preco": 89536.14
+    },
+    {
+      "id": 4985,
+      "idmarca": 99,
+      "nome": "MKZ",
+      "preco": 34426.28
+    },
+    {
+      "id": 4986,
+      "idmarca": 99,
+      "nome": "NAVIGATOR",
+      "preco": 97261.25
+    },
+    {
+      "id": 4987,
+      "idmarca": 99,
+      "nome": "PREMIERE",
+      "preco": 72744.92
+    },
+    {
+      "id": 4988,
+      "idmarca": 99,
+      "nome": "TOWN CAR",
+      "preco": 17501.41
+    },
+    {
+      "id": 4989,
+      "idmarca": 99,
+      "nome": "VERSAILLES",
+      "preco": 98467.28
+    },
+    {
+      "id": 4990,
+      "idmarca": 99,
+      "nome": "ZEPHYR",
+      "preco": 60959.05
+    },
+    {
+      "id": 4991,
+      "idmarca": 1,
+      "nome": "CLASSIC",
+      "preco": 27081.64
+    },
+    {
+      "id": 4992,
+      "idmarca": 21,
+      "nome": "ACTYON",
+      "preco": 86088.17
+    },
+    {
+      "id": 5003,
+      "idmarca": 1,
+      "nome": "MARAJO",
+      "preco": 18403.87
+    },
+    {
+      "id": 5004,
+      "idmarca": 1,
+      "nome": "SUPREMA",
+      "preco": 64421.26
+    },
+    {
+      "id": 5005,
+      "idmarca": 2,
+      "nome": "NEW BEETLE",
+      "preco": 62446.18
+    },
+    {
+      "id": 5006,
+      "idmarca": 2,
+      "nome": "QUANTUM",
+      "preco": 94237.11
+    },
+    {
+      "id": 5007,
+      "idmarca": 2,
+      "nome": "CROSSFOX",
+      "preco": 34792.07
+    },
+    {
+      "id": 5008,
+      "idmarca": 3,
+      "nome": "MILLE",
+      "preco": 26532.09
+    },
+    {
+      "id": 5009,
+      "idmarca": 534,
+      "nome": "GC2",
+      "preco": 86794.32
+    },
+    {
+      "id": 5010,
+      "idmarca": 534,
+      "nome": "EC7",
+      "preco": 87855.85
+    },
+    {
+      "id": 5011,
+      "idmarca": 98,
+      "nome": 530,
+      "preco": 10069.74
+    },
+    {
+      "id": 5012,
+      "idmarca": 3,
+      "nome": "MOBI",
+      "preco": 52543.75
+    },
+    {
+      "id": 5013,
+      "idmarca": 3,
+      "nome": "TORO",
+      "preco": 29717.89
+    },
+    {
+      "id": 5014,
+      "idmarca": 87,
+      "nome": "RENEGADE",
+      "preco": 97546.82
+    },
+    {
+      "id": 5015,
+      "idmarca": 24,
+      "nome": "DUSTER OROCH",
+      "preco": 60278.41
+    },
+    {
+      "id": 5016,
+      "idmarca": 24,
+      "nome": "SANDERO RS",
+      "preco": 44401.38
+    },
+    {
+      "id": 5017,
+      "idmarca": 14,
+      "nome": "HB20R",
+      "preco": 65408.26
+    },
+    {
+      "id": 5018,
+      "idmarca": 14,
+      "nome": "GRAND SANTA FE",
+      "preco": 38032.71
+    },
+    {
+      "id": 5019,
+      "idmarca": 2,
+      "nome": "GOLF VARIANT",
+      "preco": 20755.19
+    },
+    {
+      "id": 5020,
+      "idmarca": 2,
+      "nome": "SPACE CROSS",
+      "preco": 81838.06
+    },
+    {
+      "id": 5021,
+      "idmarca": 22,
+      "nome": 2008,
+      "preco": 57584.47
+    },
+    {
+      "id": 5022,
+      "idmarca": 16,
+      "nome": "QUORIS",
+      "preco": 13793.93
+    },
+    {
+      "id": 5023,
+      "idmarca": 16,
+      "nome": "GRAND CARNIVAL",
+      "preco": 26845.28
+    },
+    {
+      "id": 5024,
+      "idmarca": 15,
+      "nome": "T8",
+      "preco": 82782.46
+    },
+    {
+      "id": 5025,
+      "idmarca": 15,
+      "nome": "T6",
+      "preco": 52910.13
+    },
+    {
+      "id": 5026,
+      "idmarca": 15,
+      "nome": "T5",
+      "preco": 76692.34
+    },
+    {
+      "id": 5027,
+      "idmarca": 13,
+      "nome": "KA SEDAN",
+      "preco": 77960.18
+    },
+    {
+      "id": 5028,
+      "idmarca": 13,
+      "nome": "FOCUS FASTBACK",
+      "preco": 70538.14
+    }
+  ]
