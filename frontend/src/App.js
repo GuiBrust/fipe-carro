@@ -18,7 +18,7 @@ function enviaDados() {
 
   console.log("Dados a Serem Enviados:", data)
 
-  axios.post('http://localhost:4000/marcas', data).then(function (response) {
+  axios.post('http://localhost:3001/marcas', data).then(function (response) {
     toast.success("Marca cadastrada com sucesso!");
     console.log('Success: ', response);
   }).catch(function (error) {
